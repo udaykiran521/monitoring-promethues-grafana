@@ -10,8 +10,7 @@ Connect to the EC2 instance: You can use an ssh client like PuTTY to connect to 
 Install Prometheus: The simplest way to install Prometheus is to use the official Prometheus repository. You can add the repository to the instance by running the following commands:
 
 #################################
-import anHtmlFile from './anHtmlFile.html';
-copyCodeBlock(anHtmlFile);
+
 sudo useradd --no-create-home --shell /bin/false prometheus
 sudo mkdir /etc/prometheus
 sudo mkdir /var/lib/prometheus
