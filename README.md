@@ -47,3 +47,9 @@ sudo service prometheus start
 Check Prometheus: You can check if Prometheus is running by accessing the Prometheus web UI at http://<EC2-instance-public-DNS>:9090.
 
 (Optional) Secure Prometheus: You can secure Prometheus by using SSL/TLS encryption and authentication. This can be done by configuring reverse proxy software such as Nginx or Apache to act as a frontend for Prometheus.
+
+  
+  for prometheus node setup and Grafana setup
+  
+  https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
+  
