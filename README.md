@@ -1,3 +1,6 @@
+![prome](https://user-images.githubusercontent.com/26878098/217315932-758a9bb9-4d29-4d1a-8fc2-bffaaa4863d5.jpg)
+![grafana1](https://user-images.githubusercontent.com/26878098/217315982-c3303162-7dfd-4085-bcb6-0eedbbd293f6.jpg)
+![grafana2](https://user-images.githubusercontent.com/26878098/217315988-3f27cc8c-10ce-44aa-9e7d-e7f0aa384c6b.jpg)
 # monitoring-promethues-grafana
 Setting up Prometheus and Grafana in AWS 
 
